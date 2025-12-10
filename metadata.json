@@ -1,0 +1,5 @@
+{
+  "name": "Pipistrel PPL Trainer",
+  "description": "An interactive gamified study aid for the Pipistrel Virus/Explorer PPL syllabus, featuring maneuver visualizers, speed quizzes, and performance calculators.",
+  "requestFramePermissions": []
+}
